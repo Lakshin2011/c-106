@@ -1,0 +1,22 @@
+.header_div
+{
+    color: rgb(247, 182, 52);
+    background-color: rgba(126, 18, 119, 0.963);
+    position:fixed;
+    top: 0;
+    width:100%;
+}
+.header_div p
+{
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(215, 101, 62);
+}
+.main_div button
+{
+    margin-top: 100px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
